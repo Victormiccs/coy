@@ -7,6 +7,6 @@ layout: page
 permalink: >
   https://victor.dbsprojects.ie/wordpress/index.php/payment/
 published: true
-post_date: 2020-07-15 17:50:19
+post_date: 2020-07-15 17:50:09
 ---
 https://www.youtube.com/watch?v=7-31KgImGgU
