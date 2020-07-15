@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2020-07-15 17:50:09
 ---
-https://www.youtube.com/watch?v=7-31KgImGgU
+https://www.youtube.com/watch?v=vwsO238zoEQ
