@@ -9,7 +9,7 @@ layout: page
 permalink: >
   https://victor.dbsprojects.ie/wordpress/index.php/home/
 published: true
-post_date: 2020-07-24 14:14:05
+post_date: 2020-07-24 14:12:23
 ---
 <h3>EXPLORE TOP CONFERENCES AROUND THE WORLD</h3>		
 			<h1>What are your Interests?</h1>		
