@@ -43,3 +43,5 @@ https://www.youtube.com/watch?v=vwsO238zoEQ
 			<a href="#" role="button">
 						See more
 					</a>
+			<h3>About us</h3>		
+			<h5>confOAV is a conference management application designed to assist conference organizers, attendees and speakers have seamless<br>experience with their conferences both from the planning to finishing stage by automating repeated task. Organizers can create conferences while attendees can find and register for conferences they want to attend.</h5>
