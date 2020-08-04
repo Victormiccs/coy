@@ -9,4 +9,12 @@ permalink: >
 published: true
 post_date: 2020-07-24 13:31:58
 ---
-[user_registration_form id="164"]
+<p>[user_registration_form id="164"]</p>
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
