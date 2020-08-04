@@ -7,7 +7,7 @@ post_excerpt: |
   <p class="read-more"> <a class="" href="https://websitedemos.net/outdoor-adventure-02/"> <span class="screen-reader-text">Home</span> Read More &raquo;</a></p>
 layout: page
 permalink: >
-  https://victor.dbsprojects.ie/wordpress/index.php/home/
+  https://victor.dbsprojects.ie/index.php/home/
 published: true
 post_date: 2020-07-24 14:12:23
 ---
