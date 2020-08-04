@@ -12,7 +12,7 @@ post_date: 2020-07-24 13:31:58
 <p>[user_registration_form id="164"]</p>
 
 <!-- wp:paragraph -->
-<p>[miniorange_social_login]</p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
