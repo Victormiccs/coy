@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2020-08-04 23:20:56
 ---
-[pms-login]
+[user_registration_my_account]
