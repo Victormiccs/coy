@@ -5,7 +5,7 @@ author: Tega
 post_excerpt: ""
 layout: page
 permalink: >
-  https://victor.dbsprojects.ie/index.php/hestia-front/dashboard/
+  https://victor.dbsprojects.ie/index.php/dashboard/
 published: true
 post_date: 2020-08-05 00:15:28
 ---
