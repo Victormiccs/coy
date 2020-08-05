@@ -1,6 +1,6 @@
 ---
 ID: 219
-post_title: Event Dashboard
+post_title: Edit Listing
 author: coy
 post_excerpt: ""
 layout: page
